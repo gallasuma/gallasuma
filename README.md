@@ -16,7 +16,7 @@ I am looking for a challenging Cybersecurity IAM role where I can apply my exper
 | Frameworks & Libraries | Spring Boot, React, Bootstrap|
 | Developer Tools        | Visual Studio Code, Eclipse, Dev C++, Putty, Android Studio, Jupyter Notebook, MySQL Workbench 8.0 CE|
 | IAM Tools      | Saviynt, Sailpoint IIQ, Azure Active Directory, Okta|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Directory Service                  | Active Directory|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
