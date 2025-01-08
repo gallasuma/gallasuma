@@ -1,9 +1,7 @@
 # Hello, I'm Suma Galla
 <a href="https://www.linkedin.com/in/sumagalla/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am Suma Galla, a cybersecurity professional with a Master's in Computer Science from Texas Tech University, I currently working as an IAM Analyst Intern at Cboe Global Markets. I have over five years of work experience in Identity and Access Management (IAM), working with companies like KPMG Global Services and Cognizant. During this time, I have gained strong expertise in managing IAM systems and solutions across different platforms.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
