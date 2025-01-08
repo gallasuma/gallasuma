@@ -3,11 +3,11 @@
 
 I am Suma Galla, a cybersecurity professional with a Master's in Computer Science from Texas Tech University, I currently working as an IAM Analyst Intern at Cboe Global Markets. I have over five years of work experience in Identity and Access Management (IAM), working with companies like KPMG Global Services and Cognizant. During this time, I have gained strong expertise in managing IAM systems and solutions across different platforms.
 
+I specialize in Identity and Access Management (IAM), with hands-on experience using tools like SailPoint IdentityIQ, Saviynt, CyberArk, and Okta. I have led projects focused on application onboarding, lifecycle management, and custom configurations, improving identity processes for clients.
+
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
+I am looking for a challenging Cybersecurity IAM role where I can apply my experience with tools such as SailPoint IIQ, Saviynt, and Okta, along with the theoretical knowledge gained during my Master's program in Computer Science. With expertise in programming languages like Java and Python for automation, and a strong background in identity management and process automation, I am eager to contribute my skills and take on new opportunities in the field.
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
