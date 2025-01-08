@@ -10,7 +10,7 @@ I specialize in Identity and Access Management (IAM), with hands-on experience u
 I am looking for a challenging Cybersecurity IAM role where I can apply my experience with tools such as SailPoint IIQ, Saviynt, and Okta, along with the theoretical knowledge gained during my Master's program in Computer Science. With expertise in programming languages like Java and Python for automation, and a strong background in identity management and process automation, I am eager to contribute my skills and take on new opportunities in the field.
 ## Technical Skills
 
-| Tools                                         | Products       |
+| Development Tools & Technologies                                         | Products       |
 |-----------------------------------------------|----------------------------|
 | Programming Languages         | Python, Java 8, C++, C, JavaScript, HTML, CSS, JSON, SQL|
 | Frameworks & Libraries | Spring Boot, React, Bootstrap|
