@@ -1,148 +1,56 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Suma Galla - Cybersecurity Professional</title>
-    <style>
-        /* General body styling */
-        body {
-            background-color: #000000; /* Black background */
-            color: white; /* White text for contrast */
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-        }
+# Hello, I'm Suma Galla
+<a href="https://www.linkedin.com/in/sumagalla/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-        /* Header styling */
-        header {
-            text-align: center;
-            padding: 20px;
-            background-color: #1a1a1a;
-        }
+I am Suma Galla, a cybersecurity professional with a Master's in Computer Science from Texas Tech University, I currently working as an IAM Analyst Intern at Cboe Global Markets. I have over five years of work experience in Identity and Access Management (IAM), working with companies like KPMG Global Services and Cognizant. During this time, I have gained strong expertise in managing IAM systems and solutions across different platforms.
 
-        header h1 {
-            margin: 0;
-            font-size: 36px;
-        }
+I specialize in Identity and Access Management (IAM), with hands-on experience using tools like SailPoint IdentityIQ, Saviynt, CyberArk, and Okta. I have led projects focused on application onboarding, lifecycle management, and custom configurations, improving identity processes for clients.
 
-        header p {
-            font-size: 18px;
-            margin: 5px;
-        }
+## Objective
 
-        /* Links */
-        a {
-            color: #0072b1; /* LinkedIn color */
-            text-decoration: none;
-        }
+I am looking for a challenging Cybersecurity IAM role where I can apply my experience with tools such as SailPoint IIQ, Saviynt, and Okta, along with the theoretical knowledge gained during my Master's program in Computer Science. With expertise in programming languages like Java and Python for automation, and a strong background in identity management and process automation, I am eager to contribute my skills and take on new opportunities in the field.
+## Technical Skills
 
-        /* Section titles */
-        h2 {
-            color: white;
-            font-size: 28px;
-            text-decoration: underline;
-        }
+| Development Tools & Technologies                                         | Products       |
+|-----------------------------------------------|----------------------------|
+| Programming Languages         | Python, Java 8, C++, C, JavaScript, HTML, CSS, JSON, SQL|
+| Frameworks & Libraries | Spring Boot, React, Bootstrap|
+| Developer Tools        | Visual Studio Code, Eclipse, Dev C++, Putty, Android Studio, Jupyter Notebook, MySQL Workbench 8.0 CE|
+| IAM Tools      | Saviynt, Sailpoint IIQ, Azure Active Directory, Okta|
+| Directory Service                  | Active Directory|
 
-        /* Section content */
-        section {
-            margin: 20px;
-            padding: 20px;
-            background-color: #2a2a2a;
-            border-radius: 10px;
-        }
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-        /* Tech skills and certifications layout */
-        .tech-skills, .certifications {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-            justify-content: center;
-        }
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
 
-        .tech-skills img, .certifications img {
-            margin: 5px;
-        }
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
 
-        /* List items */
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
-        ul li {
-            margin: 10px 0;
-        }
-        
-        /* Footer styling */
-        footer {
-            text-align: center;
-            padding: 10px;
-            background-color: #1a1a1a;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
-        }
-    </style>
-</head>
-<body>
+## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
 
-    <!-- Header Section -->
-    <header>
-        <h1>Suma Galla</h1>
-        <p>A Cybersecurity Professional</p>
-        <a href="https://www.linkedin.com/in/sumagalla/">
-            <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        </a>
-    </header>
-
-    <!-- Objective Section -->
-    <section>
-        <h2>Objective</h2>
-        <p>I am looking for a challenging Cybersecurity IAM role where I can apply my experience with tools such as SailPoint IIQ, Saviynt, and Okta, along with the theoretical knowledge gained during my Master's program in Computer Science. With expertise in programming languages like Java and Python for automation, and a strong background in identity management and process automation, I am eager to contribute my skills and take on new opportunities in the field.</p>
-    </section>
-
-    <!-- Technical Skills Section -->
-    <section>
-        <h2>Technical Skills</h2>
-        <div class="tech-skills">
-            <img src="https://img.shields.io/badge/-Python-306998?&style=for-the-badge&logo=Python&logoColor=white" alt="Python"/>
-            <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" alt="Java"/>
-            <img src="https://img.shields.io/badge/-C++-00599C?&style=for-the-badge&logo=Cplusplus&logoColor=white" alt="C++"/>
-            <img src="https://img.shields.io/badge/-SailPoint-IIQ-2C6F9F?&style=for-the-badge" alt="SailPoint IIQ"/>
-            <img src="https://img.shields.io/badge/-Saviynt-4B8C44?&style=for-the-badge" alt="Saviynt"/>
-            <img src="https://img.shields.io/badge/-Okta-006F95?&style=for-the-badge" alt="Okta"/>
-            <img src="https://img.shields.io/badge/-CyberArk-5E4B8B?&style=for-the-badge" alt="CyberArk"/>
-            <img src="https://img.shields.io/badge/-Azure_Active_Directory-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Azure Active Directory"/>
-        </div>
-    </section>
-
-    <!-- Certifications Section -->
-    <section>
-        <h2>Certifications</h2>
-        <div class="certifications">
-            <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Security+"/>
-            <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Network+"/>
-            <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="A+"/>
-            <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" alt="CDSA"/>
-            <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" alt="CCD"/>
-        </div>
-    </section>
-
-    <!-- Projects Section -->
-    <section>
-        <h2>Projects</h2>
-        <ul>
-            <li>Detection Lab</li>
-            <li>SOC Automation Project</li>
-        </ul>
-    </section>
-
-    <!-- Footer Section -->
-    <footer>
-        <p>&copy; 2025 Suma Galla. All rights reserved.</p>
-    </footer>
-
-</body>
-</html>
+## Projects
+- Detection Lab
+- SOC Automation Project
